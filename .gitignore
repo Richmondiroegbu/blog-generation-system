@@ -1,0 +1,33 @@
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Outputs
+outputs/
+examples/output/*.md
+!examples/output/README.md
