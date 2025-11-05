@@ -112,4 +112,4 @@ class TextUtils:
 
 
 # Create utility instance for easy import
-text_utils = TextUtils()
+text_utils = TextUtils() 
