@@ -1,0 +1,12 @@
+numpy
+langchain
+langchain-community
+groq
+python-dotenv
+wikipedia
+pydantic
+langchain-groq
+requests
+langchain-core
+ddgs
+markdown
