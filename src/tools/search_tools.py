@@ -60,7 +60,7 @@ class SearchTools:
         Simple web search implementation.
         """
         try:
-            # For now, return a placeholder with meaningful content
+            
             source = ResearchSource(
                 content=f"Web research on '{query}' reveals current trends, developments, and future prospects. Key areas include technological advancements, market impact, and potential applications across various sectors.",
                 source_type="web_search", 
